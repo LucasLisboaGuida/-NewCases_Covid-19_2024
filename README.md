@@ -32,6 +32,20 @@ The goal of this analysis was to extract insights from the dataset by:
 
 
 
+## Dataset
+
+The dataset used contains real COVID-19 case records for Piauí. It includes fields such as:
+
+- Gender
+
+- Age group
+
+- City
+
+- Diagnosis and status
+
+
+
 ## Notebook
 
 You can view the full project notebook here:
